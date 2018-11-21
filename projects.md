@@ -1,9 +1,10 @@
 ---
-title: Landing
+title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'See examples of our past work'
+image: assets/images/notes.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

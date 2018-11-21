@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Bringing your vision to life'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+We have experience in a wide range of fields, including web development, ecommerce, blockchain technologies, dev ops, virtual machines, compiler technologies and more. If you're in need of a dedicated team used to working with leading technology and that can present you with modern and efficient solutions to your problems, we've got you covered.

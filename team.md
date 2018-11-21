@@ -1,7 +1,12 @@
 ---
 layout: page
-title: Elements
+title: Team
 nav-menu: true
+image: assets/images/paper.jpg
+show_tile: true
+description: Meet our team of developers
+
+
 ---
 
 <!-- Main -->
@@ -11,7 +16,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Team</h1>
 		</header>
 
 <!-- Content -->
@@ -43,8 +48,8 @@ nav-menu: true
 
 <hr class="major" />
 
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
+<!-- Team -->
+<h2 id="team">Team</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
